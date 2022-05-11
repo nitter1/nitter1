@@ -1,6 +1,7 @@
 # Hello World! 👋
 
-## I'm front-end developer from Brazil 🇧🇷
+## My name is Daniel
+### I'm front-end developer from Brazil 🇧🇷
 <!--
 **nitter1/nitter1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
