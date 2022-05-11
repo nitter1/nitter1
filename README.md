@@ -1,5 +1,6 @@
-### Hello World! wave
+# Hello World! 👋
 
+## I'm front-end developer 
 <!--
 **nitter1/nitter1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
