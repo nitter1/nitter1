@@ -9,9 +9,6 @@
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Daniel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-          
-  <img align="right" alt="Daniel-Itachi" height="150" style="border-radius:50px;"
-       src="![itachi](https://user-images.githubusercontent.com/100990223/178609085-399e25c8-6205-414b-b48f-967cfe478cb1.gif)">
 </div>
   
   ##
