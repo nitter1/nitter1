@@ -1,5 +1,5 @@
 <h1> Hi, i'm Daniel Roger Nitter!</h1>
-📚 I’m currently learning **Javascript, Vue.JS, Node.JS, and SQL**
+📚 I’m currently learning Javascript, Vue.JS, Node.JS, SQL and MongoDB.
 
 💬 Ask me about **HTML, CSS, JavaScript, Git, Node.JS and SQL**
 <div align="left">
