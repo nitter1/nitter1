@@ -1,7 +1,7 @@
 <h1> Hi, i'm Daniel Roger Nitter!</h1>
 📚 I’m currently learning Javascript, Vue.JS, Node.JS, SQL and MongoDB.
 
-💬 Ask me about **HTML, CSS, JavaScript, Git, Node.JS and SQL**
+💬 Ask me about **HTML, CSS, JavaScript, React**
 <div align="left">
   <img src="https://c.tenor.com/d5Y4XuC2HF4AAAAC/itachi-naruti.gif" width="700px" />
   </div>
