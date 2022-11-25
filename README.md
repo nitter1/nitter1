@@ -1,6 +1,5 @@
 <h1> Hi, i'm Daniel Roger Nitter!</h1>
 📚 I’m currently learning HTML, CSS, Javascript, React.
-
 <div align="left">
   <img src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif" width="300px" />
   </div>
