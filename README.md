@@ -1,8 +1,8 @@
 <h1> Hi, i'm Daniel Roger Nitter!</h1>
 📚 I’m currently learning HTML, CSS, Javascript, React.
 
-<div align="left">[
-  <img src="" width="500px" />
+<div align="left">
+  <img src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif" width="300px" />
   </div>
 <a href="https://github.com/nitter1">
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nitter1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitter1&layout=compact&langs_count=7&theme=dark"/>
