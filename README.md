@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://media.tenor.com/8ZOrI4ujpUEAAAAC/the-matrix-morpheus.gif" width="300px" />
   </div>
+  <hr>
   </br>
 <a href="https://github.com/nitter1">
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nitter1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitter1&layout=compact&langs_count=7&theme=dark"/>
