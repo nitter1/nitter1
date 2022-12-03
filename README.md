@@ -1,9 +1,9 @@
 <h1> Hi, i'm Daniel Roger Nitter!</h1>
-<p>📚 I’m currently learning HTML, CSS, Javascript, React.</p>
+<p align="center">📚 I’m currently learning HTML, CSS, Javascript, React.</p>
 <div align="center">
   <img src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif" width="300px" />
   </div>
-<p>Choose the red pill and come to my world<p/>
+<p align="center">Choose the red pill and come to my world<p/>
 <div align="center">
   <img src="https://media.tenor.com/8ZOrI4ujpUEAAAAC/the-matrix-morpheus.gif" width="300px" />
   </div>
