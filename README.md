@@ -3,10 +3,6 @@
 <div align="center">
   <img src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif" width="300px" />
   </div>
-<p align="center">Choose the red pill and come to my world<p/>
-<div align="center">
-  <img src="https://media.tenor.com/8ZOrI4ujpUEAAAAC/the-matrix-morpheus.gif" width="300px" />
-  </div>
   <hr>
   </br>
 <a href="https://github.com/nitter1">
