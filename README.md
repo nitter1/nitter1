@@ -30,9 +30,9 @@
 # 📊 GitHub Stats:
 <div align="center">
 <a href="https://github.com/nitter1">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nitter1&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=nitter1&theme=dark&hide_border=false"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitter1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nitter1&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=nitter1&theme=great-gatsby&hide_border=false"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitter1&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
 ### ✍️ Random Dev Quote
