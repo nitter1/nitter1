@@ -2,7 +2,7 @@
 - 🔭 Desenvolvedor Web Front-End
 - 🎓 Análise e Desenvolvimento de Sistemas (ADS)
 - 📫 Contato: danielroger2001@gmail.com
-- 🚀 Estou sempre praticando HTML5, CSS, JavaScript e ReactJS
+- 🚀 Estou sempre praticando HTML5, CSS3, JavaScript e ReactJS
 
 <div align="center">
   <img src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif" width="500px" height="250px" />
