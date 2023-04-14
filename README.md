@@ -1,6 +1,6 @@
 # <h1> Hi, i'm Daniel!</h1>
 - 🔭 Desenvolvedor Web Front-End
-- 🎓 Análise e Desenvolvimento de Sistemas (ADS)
+- 🎓 Análise e Desenvolvimento de Sistemas (Em breve)
 - 📫 Contato: danielroger2001@gmail.com
 - 🚀 Estou sempre praticando HTML5, CSS3, JavaScript e ReactJS
 
