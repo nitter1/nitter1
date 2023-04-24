@@ -3,11 +3,7 @@
 - 🎓 Análise e Desenvolvimento de Sistemas (Em breve)
 - 📫 Contato: danielroger2001@gmail.com
 - 🚀 Estou sempre praticando HTML5, CSS3, JavaScript e ReactJS
-
-<div align="center">
-  <img src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif" width="500px" height="250px" />
-  </div>
-  </br>
+<hr>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dannitter) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dannitter) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danirns1) 
@@ -34,12 +30,6 @@
   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=nitter1&theme=great-gatsby&hide_border=false"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitter1&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nitter1&icon=0&color=9)](https://visitcount.itsvg.in)
