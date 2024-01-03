@@ -1,8 +1,7 @@
 # <h1> Hi, i'm Daniel!</h1>
-- 🔭 Desenvolvedor Web Front-End pelo Vai na Web!
+- 🔭 Desenvolvedor em Tecnologia Front-End!
 - 🎓 Análise e Desenvolvimento de Sistemas (Em breve)
-- 📫 Contato: danielroger2001@gmail.com
-- 🚀 Estou sempre praticando HTML5, CSS3, JavaScript e ReactJS
+- 📫 Contato: nittersolutions@gmail.com
 <hr>
 
 ## 🌐 Socials:
