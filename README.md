@@ -15,9 +15,6 @@
   <img align="center" alt="Dani-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Dani-Git" height="30" width="30" src="https://user-images.githubusercontent.com/100990223/235592340-6cc346bd-6a61-4b58-bdf3-f9d26959b9c6.png">
   <img align="center" alt="Dani-Next" height="30" width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704">
-  <img align="center" alt="Dani-TS" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
-  <img align="center" alt="Dani-TailwindCSS" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png">
-  <img align="center" alt="Dani-TailwindCSS" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">
 
   
 </div><br>
