@@ -1,6 +1,5 @@
 # <h1> Hi, i'm Daniel!</h1>
 - 🔭 Desenvolvedor em Tecnologia Front-End!
-- 🎓 Análise e Desenvolvimento de Sistemas (Em breve)
 - 📫 Contato: nittersolutions@gmail.com
 <hr>
 
